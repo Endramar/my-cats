@@ -1,0 +1,23 @@
+.NavigationItems{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 3em;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.NavigationItem{
+    color : white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.NavigationItem:hover{
+    color : red;
+}
+
+.Active{
+   color : red;
+}

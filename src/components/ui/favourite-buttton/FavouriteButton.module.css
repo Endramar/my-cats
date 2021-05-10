@@ -1,0 +1,12 @@
+.FavouriteButton {
+    color: red;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.UnFavouriteButton {
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+}
+

@@ -1,0 +1,13 @@
+.LayoutContainer{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.Header {
+    background-color: #001529;
+}
+
+.Main{
+    padding: 1em;
+}

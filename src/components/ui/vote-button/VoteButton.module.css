@@ -1,0 +1,38 @@
+.VoteButton{
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.Thumbsup{
+    color : white;
+    margin: 0.5rem;
+    cursor: pointer;
+}
+
+
+.Thumbsup:hover{
+    color : lightblue;
+}
+
+.Thumbsdown{
+    color : white;
+    margin: 0.5rem;
+    cursor: pointer;
+}
+
+.Thumbsdown:hover{
+   color: lightcoral;
+}
+
+.Score{
+    color : white;
+}
+
+.Score.Up{
+    color : lightblue;
+}
+
+.Score.Down{
+   color: lightcoral;
+}

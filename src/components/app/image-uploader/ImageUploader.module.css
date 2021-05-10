@@ -1,0 +1,42 @@
+.ImageUploader{ 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.ImgOverlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Text{
+    margin: 0;
+    padding: 0;
+}
+
+.UploadButton{
+    font-size: 5rem;
+    color : grey;
+    cursor: pointer;
+}
+
+.Img{
+    opacity: 0.5;
+}
+
+.Card{
+    background-color: #001529 !important;
+}
+
+.TextContainer{
+    color : white;
+    display: flex;
+    justify-content: center;
+}
+
+.FileInput{
+    display: none;
+}
